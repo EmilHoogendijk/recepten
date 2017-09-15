@@ -1,0 +1,42 @@
+div#right {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    background-color: white;
+    margin: 1px 200px 200px 600px;
+    top: 0px;
+    display: block;
+    position: absolute;
+}
+body {
+	background: url(creme.png);
+}
+div#top {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0 0 0 0; 
+
+    background-color: white;
+}
+div#left {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin-left: 0px; 
+    background-color: white;
+    display: block;
+}
+#pic {
+    border: 5px solid gray;
+    position: absolute;
+    left:520px;
+    top: 450px;
+}
+#pic2 {
+    border: 5px solid gray;
+    position: absolute;
+    width: 350px;
+    height: 200px;
+    top: 700px;
+}
